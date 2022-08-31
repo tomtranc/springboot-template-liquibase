@@ -1,2 +1,2 @@
-# liquibase-template
+# springboot-template-liquibase
 Quick liquibase implement
